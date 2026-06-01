@@ -19,6 +19,7 @@
 ## 📄 專題報告
 
 - 📎 [突破邊緣AI散熱極限.pdf](突破邊緣AI散熱極限.pdf)
+- 📎 [conversation.pdf](conversation.pdf)
 
 ---
 
