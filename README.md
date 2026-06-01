@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![影片封面](video_thumbnail.jpg)](https://www.youtube.com/watch?v=lpfC8Xa92gE)
+[![影片封面](cover.png)](https://www.youtube.com/watch?v=lpfC8Xa92gE)
 
 🔗 **[點擊觀看完整影片](https://www.youtube.com/watch?v=lpfC8Xa92gE)**
 
