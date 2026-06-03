@@ -31,7 +31,7 @@
 
 ## 📊 資訊圖表
 
-![資訊圖表](Inforgaphic.png)
+![資訊圖表](Infographic.png)
 
 ---
 
