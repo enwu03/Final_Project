@@ -20,6 +20,7 @@
 
 - 📎 [突破邊緣AI散熱極限.pdf](突破邊緣AI散熱極限.pdf)
 - 📎 [conversation.pdf](conversation.pdf)
+- 📎 [突破邊緣AI散熱極限Paper.pdf](突破邊緣AI散熱極限Paper.pdf)
 
 ---
 
